@@ -1,0 +1,5 @@
+outs:
+- md5: f76aced1e8c206c5a0f2034a7d6ae79a
+  size: 18885
+  hash: md5
+  path: logo.svg
